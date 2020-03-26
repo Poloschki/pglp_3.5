@@ -2,15 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="603c6d06-9e57-4a9d-bde6-18ce2ea33e51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkstyle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UneClasseMetier.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,16 +51,34 @@
       <option name="presentableId" value="Default" />
       <updated>1585233271218</updated>
     </task>
+    <task id="LOCAL-00001" summary="Création de l'interface logMessage permettant l'affichage de message">
+      <created>1585234430334</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585234430334</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Création de l'interface logMessage permettant l'affichage de message" />
+    <option name="LAST_COMMIT_MESSAGE" value="Création de l'interface logMessage permettant l'affichage de message" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="546" y="130" width="817" height="854" key="CommitChangelistDialog2" timestamp="1585234416531">
+    <state x="768" y="266" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1585234577355">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="546" y="130" width="817" height="854" key="CommitChangelistDialog2/0.27.1920.1053/0.1080.1920.1080@0.27.1920.1053" timestamp="1585234416531" />
+    <state x="768" y="266" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053/0.1080.1920.1080@0.27.1920.1053" timestamp="1585234577355" />
+    <state x="546" y="130" width="817" height="854" key="CommitChangelistDialog2" timestamp="1585234430241">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="546" y="130" width="817" height="854" key="CommitChangelistDialog2/0.27.1920.1053/0.1080.1920.1080@0.27.1920.1053" timestamp="1585234430241" />
     <state width="1874" height="275" key="GridCell.Tab.0.bottom" timestamp="1585233966659">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
