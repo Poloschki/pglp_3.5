@@ -2,7 +2,13 @@ package org.example;
 
 
 public class UneClasseMetier {
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
+    private Login login;
+
+    public void uneMethodeMetier() {
+        login.afficheLogMessage("Début de uneMethodeMetier");
+
+        //Traitement
+
+        login.afficheLogMessage("Fin de uneMethodeMetier");
     }
 }
