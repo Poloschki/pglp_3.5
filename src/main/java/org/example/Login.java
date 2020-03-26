@@ -2,7 +2,7 @@ package org.example;
 
 import java.time.LocalDateTime;
 
-public class Login implements logMessage {
+public class Login implements LogMessage {
 
     @Override
     public void afficheLogMessage(String message) {
